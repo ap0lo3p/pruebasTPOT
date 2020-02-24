@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MARINA DE GUERRA DEL PERÚ</title>
+	<atom:link href="http://192.168.1.42/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>http://192.168.1.42</link>
+	<description>PORTAL SERVICIOS</description>
+	<lastBuildDate>Thu, 20 Feb 2020 06:22:47 +0000</lastBuildDate>
+	<language>es-PE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>http://192.168.1.42/wp-content/uploads/2020/02/cropped-marinalogo-32x32.png</url>
+	<title>MARINA DE GUERRA DEL PERÚ</title>
+	<link>http://192.168.1.42</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bienvenido a bordo</title>
+		<link>http://192.168.1.42/index.php/2020/02/20/bienvenido/</link>
+				<comments>http://192.168.1.42/index.php/2020/02/20/bienvenido/#respond</comments>
+				<pubDate>Thu, 20 Feb 2020 05:13:35 +0000</pubDate>
+		<dc:creator><![CDATA[ciber]]></dc:creator>
+				<category><![CDATA[BIENVENIDO]]></category>
+
+		<guid isPermaLink="false">http://192.168.1.42/?p=100</guid>
+				<description><![CDATA[Portal Servicios de Marina de Guerra del Perú reúne diversos servicios e información para proveedores y colaboradores de nuestra institución.]]></description>
+								<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://192.168.1.42/wp-content/uploads/2020/02/bsd_12_1-2-1024x689.jpg" alt="" class="wp-image-111" srcset="http://192.168.1.42/wp-content/uploads/2020/02/bsd_12_1-2-1024x689.jpg 1024w, http://192.168.1.42/wp-content/uploads/2020/02/bsd_12_1-2-300x202.jpg 300w, http://192.168.1.42/wp-content/uploads/2020/02/bsd_12_1-2-768x516.jpg 768w, http://192.168.1.42/wp-content/uploads/2020/02/bsd_12_1-2-1536x1033.jpg 1536w, http://192.168.1.42/wp-content/uploads/2020/02/bsd_12_1-2-2048x1377.jpg 2048w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure></div>
+
+
+
+<p>Portal Servicios de Marina de Guerra del Perú reúne diversos servicios e información para proveedores y colaboradores de nuestra institución.</p>
+
+
+
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="http://192.168.1.42/wp-content/uploads/2020/02/comoperpac_1-2.png" alt="" data-id="136" data-full-url="http://192.168.1.42/wp-content/uploads/2020/02/comoperpac_1-2.png" data-link="http://192.168.1.42/index.php/2020/02/20/bienvenido/comoperpac_1-2/" class="wp-image-136" srcset="http://192.168.1.42/wp-content/uploads/2020/02/comoperpac_1-2.png 319w, http://192.168.1.42/wp-content/uploads/2020/02/comoperpac_1-2-208x300.png 208w" sizes="(max-width: 319px) 100vw, 319px" /></figure></li><li class="blocks-gallery-item"><figure><img src="http://192.168.1.42/wp-content/uploads/2020/02/comoperpac_2-1.png" alt="" data-id="137" data-full-url="http://192.168.1.42/wp-content/uploads/2020/02/comoperpac_2-1.png" data-link="http://192.168.1.42/index.php/2020/02/20/bienvenido/comoperpac_2-1/" class="wp-image-137" srcset="http://192.168.1.42/wp-content/uploads/2020/02/comoperpac_2-1.png 319w, http://192.168.1.42/wp-content/uploads/2020/02/comoperpac_2-1-208x300.png 208w" sizes="(max-width: 319px) 100vw, 319px" /></figure></li><li class="blocks-gallery-item"><figure><img src="http://192.168.1.42/wp-content/uploads/2020/02/avinav_2-1-687x1024.jpg" alt="" data-id="135" data-full-url="http://192.168.1.42/wp-content/uploads/2020/02/avinav_2-1-scaled.jpg" data-link="http://192.168.1.42/index.php/2020/02/20/bienvenido/avinav_2-1/" class="wp-image-135" srcset="http://192.168.1.42/wp-content/uploads/2020/02/avinav_2-1-687x1024.jpg 687w, http://192.168.1.42/wp-content/uploads/2020/02/avinav_2-1-201x300.jpg 201w, http://192.168.1.42/wp-content/uploads/2020/02/avinav_2-1-768x1144.jpg 768w, http://192.168.1.42/wp-content/uploads/2020/02/avinav_2-1-1031x1536.jpg 1031w, http://192.168.1.42/wp-content/uploads/2020/02/avinav_2-1-1375x2048.jpg 1375w, http://192.168.1.42/wp-content/uploads/2020/02/avinav_2-1-scaled.jpg 1718w" sizes="(max-width: 687px) 100vw, 687px" /></figure></li><li class="blocks-gallery-item"><figure><img src="http://192.168.1.42/wp-content/uploads/2020/02/dicapi_6-1.png" alt="" data-id="138" data-full-url="http://192.168.1.42/wp-content/uploads/2020/02/dicapi_6-1.png" data-link="http://192.168.1.42/index.php/2020/02/20/bienvenido/dicapi_6-1/" class="wp-image-138" srcset="http://192.168.1.42/wp-content/uploads/2020/02/dicapi_6-1.png 319w, http://192.168.1.42/wp-content/uploads/2020/02/dicapi_6-1-208x300.png 208w" sizes="(max-width: 319px) 100vw, 319px" /></figure></li></ul></figure>
+
+
+
+<h2></h2>
+
+
+
+<p></p>
+]]></content:encoded>
+							<wfw:commentRss>http://192.168.1.42/index.php/2020/02/20/bienvenido/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
